@@ -23,6 +23,13 @@ Passionate about turning raw data into meaningful insights, designing scalable s
 ## ⭐ Featured Projects
 - **Accessing Voice in ChatGPT** 🎙️ — A hands-free AI assistant that integrates ChatGPT with voice commands using Speech-to-Text and Text-to-Speech technologies for seamless interaction.
 - **Financial Transaction Using Facial Recognition** 🛡️ — An AI-powered secure payment system that verifies identity and processes transactions through facial authentication.
+- **Ikigai - life prediction** - Done this project in the data science. In the Kaggle platform by importing various datasets. This project predict the future of our life based on the input we are giving.
+
+- **CarbonSense360-Carbon Footprint Prediction** - Developed a system to monitor and predict carbon emissions for sustainability insights.Built forecasting models using TensorFlow for time-series analysis.Applied Linear Regression, ARIMA, LSTM, and Isolation Forest for prediction and anomaly detection.
+
+- **RetriXact – AI-Based Document Information Retrieval System** - Developed an AI-based document question-answering system using NLP and transformer embeddings to retrieve accurate, context-aware information from PDFs. Implemented hybrid rule-based and semantic retrieval to improve precision and reduce manual document analysis.
+
+
 
 ---
 
